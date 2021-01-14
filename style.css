@@ -1,0 +1,43 @@
+.name-highlight-1{
+    color: orange;
+}
+.name-highlight-2{
+    color: darkslateblue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+    }
+.half-width img{
+    width: 100%;
+
+}
+,shop{
+    text-align: center;
+    display: grid;
+}
+h3{
+    color: darkslategrey;
+
+}
+h4{
+    color: orange;
+}
+.card-title{
+    color: navy;
+}
+.shop-box img{
+    height: 100%;
+}
+.shop img{
+    height: 100px;
+
+}
+
+
+
+
+}
